@@ -14,7 +14,7 @@ Analyzed the impact of Artificial Intelligence on the job market using Power BI.
 
 * Identified high-demand technical and non-technical skills.
 
-Created KPI cards, slicers, and dynamic visualizations.
+* Created KPI cards, slicers, and dynamic visualizations.
 
 * Performed trend analysis using charts and comparative metrics.
 
